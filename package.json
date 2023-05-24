@@ -1,0 +1,8 @@
+{
+  "name": "floatingletters",
+  "version": "1.0.0",
+  "description": "Custom react component to allow letters to float around the screen",
+  "main": "index.js",
+  "author": "Thomas Cowan",
+  "license": "ISC"
+}
